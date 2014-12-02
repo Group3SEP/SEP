@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>SEP1_GUI_FINAL</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/AddUser.class</name>
+			<type>1</type>
+			<location>C:/Users/Stanley/Desktop/VIA/SEP/SEPI1 - Library - Group 1/Source code - Library System - Group 1/Library System Group 1/bin/view/AddUser.class</location>
+		</link>
+		<link>
+			<name>src/MainWindow.class</name>
+			<type>1</type>
+			<location>C:/Users/Stanley/Desktop/VIA/SEP/SEPI1 - Library - Group 1/Source code - Library System - Group 1/Library System Group 1/bin/view/MainWindow.class</location>
+		</link>
+	</linkedResources>
+</projectDescription>
